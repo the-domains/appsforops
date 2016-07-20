@@ -1,0 +1,14 @@
+layout_spectrum: 0.9265055805444717
+typography_spectrum: 0.7974028780590743
+color:
+  brandStrength: 0.2650822326540947
+  lightness: 0.5339569330681115
+  saturation: 0.20595884695649147
+  rhythmicContrast: 0.3871112198103219
+  brandColors:
+    - '#2F2933'
+    - '#01A2A6'
+    - '#29D9C2'
+    - '#BDF271'
+    - '#FFFFA6'
+name: AppsForOps
